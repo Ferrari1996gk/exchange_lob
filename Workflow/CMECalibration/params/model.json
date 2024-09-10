@@ -1,0 +1,226 @@
+{
+  "20100505": {
+    "ZI_base_params": {
+      "delta": 0.005,
+      "mean": 1.7395996093750001,
+      "sd": 0.3,
+      "limit_vol": 100,
+      "market_vol": 100
+    },
+    "ZI_params": {
+      "alpha": 0.6176318359375,
+      "zi_mo_ratio": 0.2
+    },
+    "FT_params": {
+      "kappa_lo": 0.2844287109375,
+      "kappa_lo_3": 0.2097802734375,
+      "kappa_mo_ratio": 1.0,
+      "ft_freq": 1
+    },
+    "MT_params": {
+      "beta_lo": 0.5934619140625,
+      "beta_mo_ratio": 0.2,
+      "gamma": 10,
+      "alpha": 0.001
+    },
+    "HMT_params": {
+      "hbeta_lo": 0.0549560546875,
+      "hbeta_mo_ratio": 0.2,
+      "hgamma": 10,
+      "halpha": 0.9
+    },
+    "MM_params": {
+      "mm_delta": 0.05,
+      "mm_lo": 0.829052734375,
+      "mm_mo": 0.0,
+      "mm_vol": 100,
+      "mm_edge": 4,
+      "mm_pos_limit": 5000,
+      "mm_pos_safe": 101,
+      "mm_mkvol": 100,
+      "mm_rest": 12000
+    },
+    "ST_params": {
+      "st_mo": 0.005,
+      "st_vol": 50,
+      "st_interval": 4
+    },
+    "INS_params": {
+      "ins_mode": 1,
+      "ins_pov": 0.09,
+      "start_step": 234000,
+      "total_vol": 120000,
+      "ins_vol": 100,
+      "ins_interval": 120,
+      "obs_interval": 600
+    }
+  },
+  "20100504": {
+    "ZI_base_params": {
+      "delta": 0.005,
+      "mean": 1.2716796875,
+      "sd": 0.3,
+      "limit_vol": 100,
+      "market_vol": 100
+    },
+    "ZI_params": {
+      "alpha": 0.67322265625,
+      "zi_mo_ratio": 0.2
+    },
+    "FT_params": {
+      "kappa_lo": 0.09326171875,
+      "kappa_lo_3": 0.34017578125,
+      "kappa_mo_ratio": 1.0,
+      "ft_freq": 1
+    },
+    "MT_params": {
+      "beta_lo": 0.69642578125,
+      "beta_mo_ratio": 0.2,
+      "gamma": 10,
+      "alpha": 0.001
+    },
+    "HMT_params": {
+      "hbeta_lo": 0.68095703125,
+      "hbeta_mo_ratio": 0.2,
+      "hgamma": 10,
+      "halpha": 0.9
+    },
+    "MM_params": {
+      "mm_delta": 0.05,
+      "mm_lo": 0.8998046875,
+      "mm_mo": 0.0,
+      "mm_vol": 100,
+      "mm_edge": 4,
+      "mm_pos_limit": 2400,
+      "mm_pos_safe": 101,
+      "mm_mkvol": 100,
+      "mm_rest": 12000
+    },
+    "ST_params": {
+      "st_mo": 0.005,
+      "st_vol": 50,
+      "st_interval": 4
+    },
+    "INS_params": {
+      "ins_mode": 1,
+      "ins_pov": 0.09,
+      "start_step": 234000,
+      "total_vol": 120000,
+      "ins_vol": 100,
+      "ins_interval": 120,
+      "obs_interval": 600
+    }
+  },
+  "20100503": {
+    "ZI_base_params": {
+      "delta": 0.005,
+      "mean": 0.9092529296874999,
+      "sd": 0.3,
+      "limit_vol": 100,
+      "market_vol": 100
+    },
+    "ZI_params": {
+      "alpha": 0.78947998046875,
+      "zi_mo_ratio": 0.2
+    },
+    "FT_params": {
+      "kappa_lo": 0.16324462890625,
+      "kappa_lo_3": 0.02351806640625,
+      "kappa_mo_ratio": 1.0,
+      "ft_freq": 1
+    },
+    "MT_params": {
+      "beta_lo": 0.09241943359374999,
+      "beta_mo_ratio": 0.2,
+      "gamma": 10,
+      "alpha": 0.001
+    },
+    "HMT_params": {
+      "hbeta_lo": 0.02522705078125,
+      "hbeta_mo_ratio": 0.2,
+      "hgamma": 10,
+      "halpha": 0.9
+    },
+    "MM_params": {
+      "mm_delta": 0.05,
+      "mm_lo": 0.7804931640625,
+      "mm_mo": 0.0,
+      "mm_vol": 100,
+      "mm_edge": 4,
+      "mm_pos_limit": 5000,
+      "mm_pos_safe": 101,
+      "mm_mkvol": 100,
+      "mm_rest": 12000
+    },
+    "ST_params": {
+      "st_mo": 0.005,
+      "st_vol": 50,
+      "st_interval": 4
+    },
+    "INS_params": {
+      "ins_mode": 1,
+      "ins_pov": 0.09,
+      "start_step": 234000,
+      "total_vol": 120000,
+      "ins_vol": 100,
+      "ins_interval": 120,
+      "obs_interval": 600
+    }
+  },
+  "20100506": {
+    "ZI_base_params": {
+      "delta": 0.005,
+      "mean": 1.0097900390625,
+      "sd": 0.3,
+      "limit_vol": 100,
+      "market_vol": 100
+    },
+    "ZI_params": {
+      "alpha": 0.01072509765625,
+      "zi_mo_ratio": 0.2
+    },
+    "FT_params": {
+      "kappa_lo": 0.36972412109375,
+      "kappa_lo_3": 0.16491943359375,
+      "kappa_mo_ratio": 1.0,
+      "ft_freq": 1
+    },
+    "MT_params": {
+      "beta_lo": 0.74935791015625,
+      "beta_mo_ratio": 0.2,
+      "gamma": 10,
+      "alpha": 0.001
+    },
+    "HMT_params": {
+      "hbeta_lo": 0.98767333984375,
+      "hbeta_mo_ratio": 0.2,
+      "hgamma": 10,
+      "halpha": 0.9
+    },
+    "MM_params": {
+      "mm_delta": 0.05,
+      "mm_lo": 0.3265380859375,
+      "mm_mo": 0.0,
+      "mm_vol": 100,
+      "mm_edge": 4,
+      "mm_pos_limit": 5000,
+      "mm_pos_safe": 101,
+      "mm_mkvol": 100,
+      "mm_rest": 12000
+    },
+    "ST_params": {
+      "st_mo": 0.005,
+      "st_vol": 50,
+      "st_interval": 4
+    },
+    "INS_params": {
+      "ins_mode": 1,
+      "ins_pov": 0.09,
+      "start_step": 234000,
+      "total_vol": 120000,
+      "ins_vol": 100,
+      "ins_interval": 120,
+      "obs_interval": 600
+    }
+  }
+}
